@@ -8,6 +8,8 @@
 
 <p>CSS para estilização</p>
 
+<p>JavaScript Interatividade e funcionalidades dinâmicas</p>
+
 <h2>📦 Como Executar</h2>
 
 <p>Baixe ou clone este repositório</p>
