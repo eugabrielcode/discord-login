@@ -8,7 +8,7 @@
 
 <p>CSS para estilização</p>
 
-<p>JavaScript Interatividade e funcionalidades dinâmicas</p>
+<p>JavaScript para interatividade e funcionalidades dinâmicas</p>
 
 <h2>📦 Como Executar</h2>
 
